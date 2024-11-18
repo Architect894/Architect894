@@ -1,5 +1,5 @@
 --Hey everyone!
-  --I'm a learning developer, a musician, and a car enthusiast. Put those things together and I might just make a car.
+  --I'm a certified developer, I find creative solutions to everyday challenges, making tasks simple and efficient for everyone.
   --I try my best, and am devoted to becoming a powerful force for this industry.
   
 --------Jacob Elliott---------
